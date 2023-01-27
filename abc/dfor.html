@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2> For In Loop</h2>
+<p></p>
+
+<p id="demo"></p>
+
+<script>
+const fruit = ["apple","banana","mango","orange","pineapple"]; 
+
+var text = "";
+for (var x of fruit) {
+  text += x + "<br> ";
+}
+
+document.getElementById("demo").innerHTML = text;
+document.write(fruit + "<br");
+for (var a of fruit) 
+document.write(a + "<br");
+
+
+</script>
+
+</body>
+</html>

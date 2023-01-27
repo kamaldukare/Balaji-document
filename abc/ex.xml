@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<note>
+	<h2>Addmission purpose</h2>
+  <to>student</to>
+  <from>teacher</from>
+  <heading>addmission</heading>
+  <body>Plaese give a addmission from our collage in this date and time</body>
+
+  <bookstore>
+
+  <book category="top collage">
+    <title lang="en">sahyadri vally clg of engineering</title>
+    <field>computer engineering</field>
+    <year>2005 to 2009</year>
+    
+  </book>
+</bookstore>
+<person gender="female">
+  <firstname>kamal</firstname>
+  <lastname>dukare</lastname>
+  <snakecase>Atpune</snakecase>
+  <parcentage>85.34</parcentage>
+</person>
+</note>
+
